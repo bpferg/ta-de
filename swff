@@ -1,0 +1,44 @@
+
+
+
+
+
+	cout << "Nhap so nguyen duong < 1000 :\n";
+	cin >> n;
+	cout << "So " << n << " doi sang so La ma la :\n";
+	tr = n / 100;
+	n = n % 100;
+	ch = n / 10;
+	dv = n % 10;
+
+	switch (tr)
+	{
+		case 1:
+			cout << "C";
+			break;
+	cout << "Nhap so nguyen duong < 1000 :\n";
+	cin >> n;
+	cout << "So " << n << " doi sang so La ma la :\n";
+	tr = n / 100;
+	n = n % 100;
+	ch = n / 10;
+	dv = n % 10;
+
+	switch (tr)
+	{
+		case 1:
+			cout << "C";
+			break;
+	cout << "Nhap so nguyen duong < 1000 :\n";
+	cin >> n;
+	cout << "So " << n << " doi sang so La ma la :\n";
+	tr = n / 100;
+	n = n % 100;
+	ch = n / 10;
+	dv = n % 10;
+
+	switch (tr)
+	{
+		case 1:
+			cout << "C";
+			break;
